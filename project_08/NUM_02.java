@@ -1,3 +1,4 @@
+// 달팽이
 import java.util.Scanner;
 
 public class NUM_02 {
