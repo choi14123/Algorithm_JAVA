@@ -1,4 +1,4 @@
-// 달팽이
+// 기본수학1 달팽이
 import java.util.Scanner;
 
 public class NUM_02 {

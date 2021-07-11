@@ -1,3 +1,4 @@
+// 기본수학2 소수1
 import java.util.Scanner;
 
 public class NUM_03 {

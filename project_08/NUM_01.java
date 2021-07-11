@@ -1,4 +1,4 @@
-//손익분기점
+// 기본수학1 손익분기점
 import java.util.Scanner;
 
 public class NUM_01 {

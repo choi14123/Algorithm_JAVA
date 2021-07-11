@@ -1,3 +1,4 @@
+// 재귀함수 팩토리얼
 import java.util.Scanner;
 
 public class NUM_05 {
@@ -11,4 +12,3 @@ public class NUM_05 {
         System.out.println(temp);
     }
 }
-

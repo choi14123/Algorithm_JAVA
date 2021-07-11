@@ -1,3 +1,4 @@
+//기본수학2 소수2
 import java.util.Scanner;
 
 public class NUM_04 {
@@ -7,7 +8,6 @@ public class NUM_04 {
         int A = sc.nextInt();
         int B = sc.nextInt();
         int count = 0, hap = 0, min = 0;
-
 
         for (int i = A ; i <= B; ++i) {
             int j;
